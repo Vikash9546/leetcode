@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vikash9546/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vikash9546/leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
