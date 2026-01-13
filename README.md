@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikash9546/leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Vikash9546/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vikash9546/leetcode/tree/master/0141-linked-list-cycle) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vikash9546/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
