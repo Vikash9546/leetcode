@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vikash9546/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vikash9546/leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Vikash9546/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vikash9546/leetcode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vikash9546/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Vikash9546/leetcode/tree/master/0134-gas-station) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vikash9546/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vikash9546/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vikash9546/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vikash9546/leetcode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vikash9546/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Vikash9546/leetcode/tree/master/0141-linked-list-cycle) |
