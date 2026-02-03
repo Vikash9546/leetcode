@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Vikash9546/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
