@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vikash9546/leetcode/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
