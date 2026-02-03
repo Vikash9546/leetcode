@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vikash9546/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Vikash9546/leetcode/tree/master/0014-longest-common-prefix) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Trie
 |  |
 | ------- |
