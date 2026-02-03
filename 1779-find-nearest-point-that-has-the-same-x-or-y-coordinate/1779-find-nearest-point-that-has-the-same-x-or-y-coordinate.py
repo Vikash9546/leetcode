@@ -4,15 +4,11 @@ class Solution:
         idx=float("inf")
         dist = float('inf')
         i=0
-        c=0
         while i<n:
             if points[i][0]==x or points[i][1]==y:
-                c+=1
                 d=(abs(points[i][0]-x)+abs(points[i][1]-y))
                 if dist>d:
                     dist = d
-                    if c>1:
-                        idx=min(idx,i)
                     idx=i
             i+=1
         if dist==float("inf"):
