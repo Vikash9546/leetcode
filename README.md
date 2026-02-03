@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Vikash9546/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
