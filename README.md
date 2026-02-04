@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vikash9546/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vikash9546/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Vikash9546/leetcode/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/Vikash9546/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Trie
 |  |
