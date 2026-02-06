@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vikash9546/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -173,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vikash9546/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Vikash9546/leetcode/tree/master/0657-robot-return-to-origin) |
 | [3379-transformed-array](https://github.com/Vikash9546/leetcode/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
