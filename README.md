@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vikash9546/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vikash9546/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vikash9546/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 <!---LeetCode Topics End-->
