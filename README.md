@@ -151,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vikash9546/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vikash9546/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Vikash9546/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikash9546/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikash9546/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Vikash9546/leetcode/tree/master/0141-linked-list-cycle) |
