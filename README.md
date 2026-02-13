@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Vikash9546/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3714-longest-balanced-substring-ii](https://github.com/Vikash9546/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Vikash9546/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/Vikash9546/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
