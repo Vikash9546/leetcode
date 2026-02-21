@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vikash9546/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vikash9546/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vikash9546/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Vikash9546/leetcode/tree/master/2652-sum-multiples) |
