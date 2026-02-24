@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vikash9546/leetcode/tree/master/0200-number-of-islands) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vikash9546/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Union Find
 |  |
 | ------- |
@@ -243,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vikash9546/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vikash9546/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vikash9546/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
