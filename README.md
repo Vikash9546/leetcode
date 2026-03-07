@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0799-champagne-tower](https://github.com/Vikash9546/leetcode/tree/master/0799-champagne-tower) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Breadth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vikash9546/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vikash9546/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vikash9546/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vikash9546/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
