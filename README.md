@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vikash9546/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vikash9546/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Vikash9546/leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1980-find-unique-binary-string](https://github.com/Vikash9546/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikash9546/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vikash9546/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vikash9546/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/Vikash9546/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vikash9546/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/Vikash9546/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Vikash9546/leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
