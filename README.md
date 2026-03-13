@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikash9546/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Vikash9546/leetcode/tree/master/2974-minimum-number-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Vikash9546/leetcode/tree/master/3379-transformed-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Vikash9546/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Vikash9546/leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vikash9546/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vikash9546/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vikash9546/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vikash9546/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vikash9546/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Dynamic Programming
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Vikash9546/leetcode/tree/master/2974-minimum-number-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Union-Find
 |  |
 | ------- |
