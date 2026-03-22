@@ -10,6 +10,6 @@ class Solution:
             i+=1
             j-=1
 
-        print(s)
+        return s
 
         
