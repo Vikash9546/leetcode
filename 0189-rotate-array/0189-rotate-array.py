@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k%=n
+        # k=n
         for i in range(k):
             last=nums.pop()
             nums.insert(0,last)
