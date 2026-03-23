@@ -3,9 +3,10 @@ class Solution:
         s=sum(nums)
         e=0
         for i in nums:
-            j=str(i)
-            for k in j:
-                e+=int(k)
+            while i>0:
+                e+= i%10
+                i=i//10
+
 
         return abs(s-e)
         
