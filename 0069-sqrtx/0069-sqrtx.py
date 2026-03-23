@@ -12,8 +12,6 @@ class Solution:
 
             if a==x:
                 return i
-            elif a<x:
-                b=a
             elif a>x:
                 return i-1
 
