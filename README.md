@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Vikash9546/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vikash9546/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vikash9546/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash9546/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vikash9546/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash9546/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vikash9546/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Vikash9546/leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vikash9546/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vikash9546/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
