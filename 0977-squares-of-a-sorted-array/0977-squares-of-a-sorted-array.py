@@ -3,8 +3,8 @@ class Solution:
         res=[]
         for i in range(len(nums)):
             res.append(nums[i]**2)
-        res.sort()
+        
         # print(nums)
-        return res
+        return sorted(res)
         
         
