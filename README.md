@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikash9546/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikash9546/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vikash9546/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Vikash9546/leetcode/tree/master/2974-minimum-number-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vikash9546/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2974-minimum-number-game](https://github.com/Vikash9546/leetcode/tree/master/2974-minimum-number-game) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vikash9546/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Vikash9546/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vikash9546/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vikash9546/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
