@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vikash9546/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vikash9546/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vikash9546/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Vikash9546/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vikash9546/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Vikash9546/leetcode/tree/master/0134-gas-station) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vikash9546/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vikash9546/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vikash9546/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Vikash9546/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vikash9546/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vikash9546/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vikash9546/leetcode/tree/master/0086-partition-list) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vikash9546/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Vikash9546/leetcode/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0799-champagne-tower](https://github.com/Vikash9546/leetcode/tree/master/0799-champagne-tower) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikash9546/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vikash9546/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vikash9546/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vikash9546/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vikash9546/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Vikash9546/leetcode/tree/master/1622-fancy-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vikash9546/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
