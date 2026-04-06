@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Vikash9546/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vikash9546/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vikash9546/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1036-rotting-oranges](https://github.com/Vikash9546/leetcode/tree/master/1036-rotting-oranges) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Vikash9546/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vikash9546/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vikash9546/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash9546/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash9546/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vikash9546/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
