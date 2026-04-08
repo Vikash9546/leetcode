@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Vikash9546/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vikash9546/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vikash9546/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Vikash9546/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Vikash9546/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash9546/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vikash9546/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1622-fancy-sequence](https://github.com/Vikash9546/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/Vikash9546/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
