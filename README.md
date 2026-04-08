@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Vikash9546/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vikash9546/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vikash9546/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vikash9546/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vikash9546/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3794-reverse-string-prefix](https://github.com/Vikash9546/leetcode/tree/master/3794-reverse-string-prefix) |
