@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vikash9546/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Vikash9546/leetcode/tree/master/2974-minimum-number-game) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash9546/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Vikash9546/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Vikash9546/leetcode/tree/master/3379-transformed-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Vikash9546/leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vikash9546/leetcode/tree/master/3714-longest-balanced-substring-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash9546/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
