@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikash9546/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikash9546/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vikash9546/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vikash9546/leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vikash9546/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikash9546/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2652-sum-multiples](https://github.com/Vikash9546/leetcode/tree/master/2652-sum-multiples) |
+| [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vikash9546/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vikash9546/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vikash9546/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash9546/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Vikash9546/leetcode/tree/master/2427-number-of-common-factors) |
+| [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vikash9546/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vikash9546/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
