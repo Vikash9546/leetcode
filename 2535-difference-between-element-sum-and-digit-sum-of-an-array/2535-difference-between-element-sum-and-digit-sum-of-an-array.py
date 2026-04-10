@@ -4,9 +4,9 @@ class Solution:
         e=0
         for i in nums:
             while i>0:
-                e+= i%10
+                e+=i%10
                 i=i//10
-
-
         return abs(s-e)
+
+
         
