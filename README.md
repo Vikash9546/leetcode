@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Vikash9546/leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikash9546/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2614-prime-in-diagonal](https://github.com/Vikash9546/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikash9546/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Vikash9546/leetcode/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vikash9546/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Vikash9546/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2614-prime-in-diagonal](https://github.com/Vikash9546/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/Vikash9546/leetcode/tree/master/2652-sum-multiples) |
 | [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Vikash9546/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vikash9546/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vikash9546/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2614-prime-in-diagonal](https://github.com/Vikash9546/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vikash9546/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash9546/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Recursion
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vikash9546/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Vikash9546/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Vikash9546/leetcode/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/Vikash9546/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Vikash9546/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vikash9546/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Vikash9546/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
