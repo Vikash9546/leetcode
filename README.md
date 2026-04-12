@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vikash9546/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Vikash9546/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vikash9546/leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Vikash9546/leetcode/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vikash9546/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Vikash9546/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vikash9546/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Vikash9546/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1622-fancy-sequence](https://github.com/Vikash9546/leetcode/tree/master/1622-fancy-sequence) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vikash9546/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash9546/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash9546/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
