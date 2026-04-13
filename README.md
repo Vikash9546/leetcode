@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vikash9546/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vikash9546/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Vikash9546/leetcode/tree/master/2942-find-words-containing-character) |
+| [3210-find-the-encrypted-string](https://github.com/Vikash9546/leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vikash9546/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vikash9546/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
