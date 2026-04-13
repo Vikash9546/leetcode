@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vikash9546/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Vikash9546/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vikash9546/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vikash9546/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Vikash9546/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vikash9546/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vikash9546/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Vikash9546/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Vikash9546/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Vikash9546/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vikash9546/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vikash9546/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
