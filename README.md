@@ -561,4 +561,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vikash9546/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/Vikash9546/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Vikash9546/leetcode/tree/master/0619-biggest-single-number) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Vikash9546/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
