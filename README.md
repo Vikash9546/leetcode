@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Vikash9546/leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vikash9546/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/Vikash9546/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Vikash9546/leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Vikash9546/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/Vikash9546/leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vikash9546/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
