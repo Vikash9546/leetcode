@@ -566,5 +566,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Vikash9546/leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Vikash9546/leetcode/tree/master/0619-biggest-single-number) |
 | [1084-sales-analysis-iii](https://github.com/Vikash9546/leetcode/tree/master/1084-sales-analysis-iii) |
+| [1407-top-travellers](https://github.com/Vikash9546/leetcode/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Vikash9546/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
