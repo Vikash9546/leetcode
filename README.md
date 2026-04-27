@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vikash9546/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vikash9546/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikash9546/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vikash9546/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vikash9546/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vikash9546/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vikash9546/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vikash9546/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Vikash9546/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vikash9546/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Vikash9546/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Vikash9546/leetcode/tree/master/0696-count-binary-substrings) |
