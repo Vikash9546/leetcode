@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vikash9546/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Vikash9546/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Vikash9546/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Vikash9546/leetcode/tree/master/0575-distribute-candies) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vikash9546/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vikash9546/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Vikash9546/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vikash9546/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Vikash9546/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0917-boats-to-save-people](https://github.com/Vikash9546/leetcode/tree/master/0917-boats-to-save-people) |
