@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Vikash9546/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vikash9546/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vikash9546/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vikash9546/leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vikash9546/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vikash9546/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vikash9546/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Vikash9546/leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Vikash9546/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vikash9546/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vikash9546/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Vikash9546/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
